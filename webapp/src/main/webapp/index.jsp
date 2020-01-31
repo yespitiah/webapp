@@ -1,3 +1,10 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here Yon Esp Hdz 2019</h2>
+<h1> Java 1.8  has been deployed in docker !!   </h1>
+<h2> using ansible  on AWS Linux </h2>
+<h2>Prometheus:</h2>
+<a>http://67.10.145.150:9090/graph</a>
+
+<h2>Grafana</h2>
+<a>http://67.10.145.150:3000/login</a>
+<br>user: admin
+<br>password: password123
+
