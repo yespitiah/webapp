@@ -3,7 +3,7 @@
 <p><span style="color: #0000ff;"><a href="https://github.com/yespitiah/webapp">https://github.com/yespitiah/webapp</a></span></p>
 <p>Compiled Maven:&nbsp; 3.4</p>
 <p>Build&nbsp; Jenkis:&nbsp;</p>
-<p><a href="http://18.222.248.222:8080/">http://18.217.105.75:8080/</a></p>
+<p><a href="http://18.222.248.222:8080//">http://18.217.105.75:8080/</a></p>
 <p>user: admin</p>
 <p>password: admin</p>
 <p><strong>WebContainer Tomcat:</strong></p>
